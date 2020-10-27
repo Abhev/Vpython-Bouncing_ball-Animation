@@ -1,7 +1,5 @@
 from vpython import *
 import PyQt5
-from bouncing import *
-from shapes import *
 
 scene.caption = """To rotate "camera", drag with right button or Ctrl-drag.
 To zoom, drag with middle button or Alt/Option depressed, or use scroll wheel.
